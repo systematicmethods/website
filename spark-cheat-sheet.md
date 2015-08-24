@@ -1,5 +1,6 @@
 ## title
 
-| **header** | **header** |
+| **Command** | **Comment** |
 |------------|------------|
-| row        | row        |
+| filter    | filter it        |
+
